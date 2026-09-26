@@ -1,2 +1,4 @@
 # Smartwaste
-SmartWaste is an IoT waste management platform using NodeMCU/JSN-SR04T sensors, Supabase/PostgreSQL, and Netlify. It includes an admin portal, driver PWA, and citizen PWA for real-time bin monitoring and collection routing. Built by NETECH as its entry for the ITDS Hackathon 2026.
+SmartWaste is an IoT-based waste management platform built with NodeMCU/JSN-SR04T ultrasonic sensors, a Supabase/PostgreSQL backend, and Netlify deployment. The system consists of three components: an admin portal for monitoring waste levels and managing operations, a driver PWA for optimized collection routing, and a citizen PWA for reporting and tracking bin status in real time.
+
+SmartWaste was developed as NETECH's entry for the ITDS Hackathon 2026, chosen over an alternative concept (SmartMove) for its stronger scope and feasibility for a global competition. The build included full-stack development of all three apps plus the accompanying pitch materials (HTML, PPTX, and PDF), along with firmware work on the ESP8266-based sensors to resolve WiFi timing and HTTPS/Supabase REST integration issues.
